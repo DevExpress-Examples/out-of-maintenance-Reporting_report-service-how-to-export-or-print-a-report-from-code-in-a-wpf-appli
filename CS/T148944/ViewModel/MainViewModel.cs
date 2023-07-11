@@ -1,4 +1,4 @@
-﻿using System.IO;
+using System.IO;
 using System.Printing;
 using System.ServiceModel;
 using System.Threading.Tasks;

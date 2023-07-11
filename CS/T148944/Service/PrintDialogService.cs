@@ -1,4 +1,4 @@
-﻿using System.Printing;
+using System.Printing;
 using System.Windows.Controls;
 using DevExpress.Mvvm.UI;
 

@@ -1,4 +1,4 @@
-﻿Imports System.IO
+Imports System.IO
 Imports System.Printing
 Imports System.ServiceModel
 Imports System.Threading.Tasks

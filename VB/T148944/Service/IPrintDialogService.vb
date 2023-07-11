@@ -1,4 +1,4 @@
-﻿Imports System.Printing
+Imports System.Printing
 
 Namespace T148944.Service
     Public Interface IPrintDialogService

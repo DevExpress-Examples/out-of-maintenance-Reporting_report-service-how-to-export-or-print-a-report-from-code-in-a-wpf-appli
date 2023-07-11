@@ -1,4 +1,4 @@
-﻿Imports System
+Imports System
 Imports System.Linq
 Imports System.Runtime.Serialization
 Imports System.ServiceModel

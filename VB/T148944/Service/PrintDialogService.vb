@@ -1,4 +1,4 @@
-﻿Imports System.Printing
+Imports System.Printing
 Imports System.Windows.Controls
 Imports DevExpress.Mvvm.UI
 
